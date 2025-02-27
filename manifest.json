@@ -1,0 +1,11 @@
+{
+  "domain": "cvms2025",
+  "name": "CVMS2025 Camera IO",
+  "documentation": "https://github.com/yourusername/cvms2025",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["requests"],
+  "config_flow": true,
+  "version": "1.0.0",
+  "iot_class": "local_polling"
+}
