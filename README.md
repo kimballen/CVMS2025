@@ -1,6 +1,6 @@
-# CVMS2025 Camera Integration for Home Assistant
+# Siemens CVMS2025-IR Camera Integration for Home Assistant
 
-A custom Home Assistant integration for CVMS2025 network cameras that provides control and monitoring of digital I/O ports and temperature sensors.
+A custom Home Assistant integration for Siemens CVMS2025-IR network cameras that provides control and monitoring of digital I/O ports and temperature sensors.
 
 ## Features
 
